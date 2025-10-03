@@ -50,7 +50,7 @@ export default function RegisterPage() {
               autoComplete="new-password"
               required
             />
-                        <p className="text-red">{state?.errors?.password?.[0]}</p>
+             <p className="text-red">{state?.errors?.password?.[0]}</p>
             </div>
             <div>
             <label htmlFor="confirm" className="block text-sm font-medium text-gray-700 mb-1">Confirm Password</label>
