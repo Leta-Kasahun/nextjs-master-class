@@ -1,0 +1,19 @@
+{
+    "contact":[
+        {
+            "id":"1",
+            "name":"Leta Kasahun",
+            "email":"letakasahun2@gmail.com",
+            "userId":"1"
+        }
+    ],
+    
+    "user":[
+        {
+            "id":"1",
+            "name":"Teku Kasahun",
+            "email":"teku2@gmail.com",
+            "password":"1234"
+        }
+    ]
+}
