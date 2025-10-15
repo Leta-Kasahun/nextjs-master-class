@@ -8,9 +8,11 @@ export default function DashboardLayout({
   return (
     <div className="p-4">
       <nav className="bg-blue-600 text-white p-2 mb-4 space-x-10 flex flex-row">
-      <Link href="/dashboard"> <span>Main Dashboard</span></Link>
-       <Link href="/dashboard/Admin"> <span>Admin Dashboard</span></Link>
-       <Link href="/dashboard/setting"> <span>Setting Dashboard</span></Link>
+      <Link href="/dashboard"> <span>Main </span></Link>
+       <Link href="/dashboard/Admin"> <span>Admin </span></Link>
+       <Link href="/dashboard/setting"> <span>Setting </span></Link>
+       <Link href="/dashboard/users"> <span>Users</span></Link>
+       <Link href="/dashboard/analytics"> <span>Analytics </span></Link>
       
 
       </nav>

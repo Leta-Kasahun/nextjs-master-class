@@ -11,7 +11,6 @@ export default function RootLayout({
           <Link href="/"><span>Home</span></Link>
           <Link href="/register"><span>Register</span></Link>
           <Link href="/dashboard"><span>Dashboard</span></Link>
-          <Link href='/LearningDashbord'>Learning</Link>
         </header>
 
         <main className="min-h-100 bg-gray-300">
